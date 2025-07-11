@@ -5,9 +5,10 @@ body {
 .weatherapp {
     background: white;
 color: #36404A;
-.delicious-handrawn-regular {
-  font-family: "Delicious Handrawn", cursive;
-  font-weight: 400;
+.dancing-script-<uniquifier> {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
   font-style: normal;
 }
 }
