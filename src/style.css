@@ -3,11 +3,11 @@ body {
 }
 
 .weatherapp {
-    background: white;
-color: #36404A;
 .libertinus-mono-regular {
   font-family: "Libertinus Mono", monospace;
   font-weight: 400;
   font-style: normal;
 }
+background: white;
+color: #36404A;
 }
