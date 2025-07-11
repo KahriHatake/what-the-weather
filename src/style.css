@@ -10,9 +10,9 @@ body {
 .weatherapp {
 background: white;
 color: #36404A;
-max width: 600px;
+max-width: 600px;
 margin: 30px auto;
-box shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
-border radius: 15px;
+box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+border-radius: 15px;
 padding: 30px;
 }
