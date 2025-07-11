@@ -5,9 +5,12 @@ body {
 .weatherapp {
     background: white;
 color: #36404A;
-.delicious-handrawn-regular {
-  font-family: "Delicious Handrawn", cursive;
-  font-weight: 400;
+.roboto-<uniquifier> {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
   font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
 }
 }
