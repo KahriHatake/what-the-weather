@@ -1,13 +1,18 @@
 body {
     background: #F2F2F2;
-}
-
-.weatherapp {
-.libertinus-mono-regular {
+    .libertinus-mono-regular {
   font-family: "Libertinus Mono", monospace;
   font-weight: 400;
   font-style: normal;
 }
+}
+
+.weatherapp {
 background: white;
 color: #36404A;
+max width: 600px;
+margin: 30px auto;
+box shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+border radius: 15px;
+padding: 30px;
 }
