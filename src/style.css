@@ -16,3 +16,11 @@ box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
 border-radius: 15px;
 padding: 30px;
 }
+
+. search-form-input {
+    background: #F2F2F2;
+    border: none;
+    border-radius: 6px;
+    max-width: 80%;
+    padding: 15px 20px;
+}
