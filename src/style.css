@@ -7,6 +7,10 @@ body {
 }
 }
 
+header {
+    border-bottom: 5px;
+}
+
 .weatherapp {
 background: white;
 color: #36404A;
@@ -18,9 +22,19 @@ padding: 30px;
 }
 
 . search-form-input {
-    background: #F2F2F2;
+    background-color: #F2F2F2;
     border: none;
     border-radius: 6px;
-    max-width: 80%;
+    width: 80%;
     padding: 15px 20px;
+    font-size: 16px;
+}
+
+search-button-form {
+    background: #DEA193;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    margin-left: 5px;
 }
