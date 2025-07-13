@@ -11,7 +11,7 @@ header {
 
 .weatherapp {
 background: white;
-color: #36404A;
+color: #401F18;
 max-width: 600px;
 margin: 30px auto;
 box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
@@ -28,7 +28,7 @@ padding: 30px;
     font-size: 16px;
 }
 
-.search-button-form {
+.search-form-button {
     background: #DEA193;
     padding: 15px 30px;
     border: none;
