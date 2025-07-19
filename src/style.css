@@ -49,11 +49,13 @@ padding: 30px;
 .city-details {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .temp-container {
     display: flex;
-    justify-content: space-between;
+    align-items: center;
+    gap: 0.8rem;
 }
 
 .weather-city {
