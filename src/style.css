@@ -75,6 +75,19 @@ padding: 30px;
 .weather-details strong {
     color: #ec0d6e;
 }
+.weather-icon {
+    font-size: 35px;
+    margin-top: 10px;
+}
+.weather-temp {
+    font-size: 50px;
+    margin-left: 10px;
+}
+
+.weather-unit {
+    font-size: 25px;
+    margin-bottom: 80px;
+}
 
 footer {
     color: #132743;
