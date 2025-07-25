@@ -76,12 +76,14 @@ padding: 30px;
     color: #ec0d6e;
 }
 .weather-icon {
-    font-size: 35px;
+    width: 57px;
+    height: 57px;
     margin-top: 10px;
 }
 .weather-temp {
     font-size: 50px;
     margin-left: 10px;
+    line-height: 100px;
 }
 
 .weather-unit {
